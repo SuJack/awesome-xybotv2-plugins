@@ -7,8 +7,7 @@
 - bdunit: 基于百度 UNIT 的智能对话，如天气、日期时间、数学运算等
 - dungeon: 地牢游戏
 - finish
-- [godcmd](https://github.com/zhayujie/chatgpt-on-wechat/tree/master/plugins/godcmd): 管理员认证
-- hello
+- GoodMorning 
 - keyword: 关键字匹配回复固定内容
 - linkai
 - role: 角色扮演
@@ -17,6 +16,7 @@
 
 ## 效率工具
 
+- [DependencyManager](https://github.com/NanSsye/DependencyManager): 依赖包管理器,通过微信命令直接管理 Python 依赖包，无需登录服务器！
 
 
 ## 群管理
