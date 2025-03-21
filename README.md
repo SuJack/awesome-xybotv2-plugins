@@ -28,7 +28,7 @@
 
 
 ## AIGC
-
+- [Gemini图像生成器](https://github.com/NanSsye/GeminiImage):🚀 使用 Google 最先进的 Gemini AI 模型生成和编辑精美图像！
 
 ## 娱乐
 
