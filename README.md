@@ -20,7 +20,7 @@
 
 
 ## 群管理
-
+- [ChatSummary聊天记录总结](https://github.com/NanSsye/ChatSummary):ChatSummary - XYBotv2 聊天记录总结插件
 
 
 ## 资讯工具
